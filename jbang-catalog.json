@@ -1,0 +1,9 @@
+{
+  "catalogs": {},
+  "aliases": {
+    "mvnrun": {
+      "script-ref": "mvnrun.java",
+      "description": "Run standalone Maven plugin goals without installing Maven"
+    }
+  }
+}
